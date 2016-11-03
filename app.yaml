@@ -1,5 +1,5 @@
 
-application: yourpersonalappidhere 
+#application: yourpersonalappidhere 
 # Or, just leave this as is, and use the command
 #
 #    appcfg.py -A yourrealappid update . 
